@@ -1,7 +1,3 @@
 # Implicit Animations
 
-Initialize build folders:
-
-```dart
-flutter create .
-```
+Some examples of how to use a animated widget
