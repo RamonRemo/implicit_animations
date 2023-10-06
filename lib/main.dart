@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:implicit_animations/animations/tween_animation.dart';
+import 'package:implicit_animations/animations/tween_animation2.dart';
 
 import 'animations/align.dart';
 import 'animations/container.dart';
@@ -46,6 +48,8 @@ class ImplicitAnimations extends StatelessWidget {
         DemoPage(title: 'Align', child: AlignExample()),
         DemoPage(title: 'Padding', child: PaddingExample()),
         DemoPage(title: 'Positioned', child: PositionedExample()),
+        DemoPage(title: 'TweenBuilder', child: TweenAnimationExample()),
+        DemoPage(title: 'TweenBuilder2', child: TweenAnimationBuilderExample2())
       ],
     );
   }
