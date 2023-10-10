@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../widgets/animate_me_please.dart';
-import '../widgets/demo_button.dart';
+import '../../widgets/animate_me_please.dart';
+import '../../widgets/demo_button.dart';
 
 class PositionedExample extends StatefulWidget {
   const PositionedExample({Key? key}) : super(key: key);

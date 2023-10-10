@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:implicit_animations/animations/tween_animation.dart';
-import 'package:implicit_animations/animations/tween_animation2.dart';
+import 'package:implicit_animations/section1_implicit_animations/animations/tween_animation_builder.dart';
+import 'package:implicit_animations/section1_implicit_animations/animations/tween_animation_builder2.dart';
 
-import 'animations/align.dart';
-import 'animations/container.dart';
-import 'animations/cross_fade.dart';
-import 'animations/default_text_style.dart';
-import 'animations/opacity.dart';
-import 'animations/padding.dart';
-import 'animations/physical_model.dart';
-import 'animations/positioned.dart';
+import 'section1_implicit_animations/animations/align.dart';
+import 'section1_implicit_animations/animations/container.dart';
+import 'section1_implicit_animations/animations/cross_fade.dart';
+import 'section1_implicit_animations/animations/default_text_style.dart';
+import 'section1_implicit_animations/animations/opacity.dart';
+import 'section1_implicit_animations/animations/padding.dart';
+import 'section1_implicit_animations/animations/physical_model.dart';
+import 'section1_implicit_animations/animations/positioned.dart';
 import 'styles.dart';
 import 'widgets/demo_page.dart';
 

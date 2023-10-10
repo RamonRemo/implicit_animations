@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../styles.dart';
-import '../widgets/demo_button.dart';
+import '../../styles.dart';
+import '../../widgets/demo_button.dart';
 
 class DefaultTextStyleExample extends StatefulWidget {
   const DefaultTextStyleExample({Key? key}) : super(key: key);

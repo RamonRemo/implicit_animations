@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../styles.dart';
-import '../widgets/animate_me_please.dart';
+import '../../styles.dart';
+import '../../widgets/animate_me_please.dart';
 
 class AlignExample extends StatefulWidget {
   const AlignExample({Key? key}) : super(key: key);
